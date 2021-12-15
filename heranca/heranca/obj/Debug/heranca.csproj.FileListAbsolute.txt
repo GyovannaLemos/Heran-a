@@ -1,0 +1,12 @@
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\bin\Debug\heranca.exe.config
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\bin\Debug\heranca.exe
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\bin\Debug\heranca.pdb
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.csprojAssemblyReference.cache
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.frmAluno.resources
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.formPrincipal.resources
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.formProfessor.resources
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.Properties.Resources.resources
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.csproj.GenerateResource.cache
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.csproj.CoreCompileInputs.cache
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.exe
+C:\Users\123456pl\Desktop\ETEC\Trabalhos\2° Modulo\C#\12-08 herança\heranca\heranca\obj\Debug\heranca.pdb
